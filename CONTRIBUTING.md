@@ -2,11 +2,6 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE-OF-CONDUCT.md). By participating in this project you agree to abide by its terms.
 
-## Adding an awesome list
-
-Please ensure your pull request adheres to the [list of guidelines](pull_request_template.md).
-
-
 ## Adding something to an awesome list
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
