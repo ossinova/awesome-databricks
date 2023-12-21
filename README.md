@@ -3,7 +3,6 @@
 
 ## Contents
 - [Awesome Databricks](#awesome-databricks)
-  - [Contents](#contents)
   - [Technology](#technology)
     - [Apache Spark](#apache-spark)
     - [Delta Lake](#delta-lake)
