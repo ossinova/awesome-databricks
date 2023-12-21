@@ -67,7 +67,7 @@
 ### Blogs
 * [Medium](https://medium.com/tag/databricks) - Databricks tagged blog articles
 * [Towards Data Science](https://towardsdatascience.com/tagged/databricks) - Databricks tagged blog articles
-* [LinkedIn](https://www.linkedin.com/search/results/content/?contentType=%22documents%22&heroEntityKey=urn%3Ali%3Aorganization%3A3477522&keywords=databricks&origin=FACETED_SEARCH&position=0&searchId=a66016f8-2e52-4aaa-871b-660fdab798fd&sid=dPV) - Databricks tagged posts with document
+* [Advancing Analytics](https://www.advancinganalytics.co.uk/blog/tag/databricks) - Databricks tagged blog articles
 ### YouTube
 * [Databricks](https://www.youtube.com/@Databricks) - Official Databricks Youtube channel
 * [Advancing Analytics](https://www.youtube.com/@AdvancingAnalytics) - You'll find a whole ton of spark, Databricks, Azure and more.
