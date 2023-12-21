@@ -90,6 +90,7 @@ People to follow on LinkedIn:
 ### Courses
 
 TBD
+
 ### Books
 
 TBD
