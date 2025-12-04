@@ -79,6 +79,9 @@
 * [spark-style-guide](https://github.com/mrpowers/spark-style-guide) <img src="https://img.shields.io/github/last-commit/mrpowers/spark-style-guide.svg"> - Spark style guide
 * [scala-style-guide](https://github.com/databricks/scala-style-guide) <img src="https://img.shields.io/github/last-commit/databricks/scala-style-guide.svg"> - Databricks Scala Coding Style Guide
 * [nutter](https://github.com/microsoft/nutter) <img src="https://img.shields.io/github/last-commit/microsoft/nutter.svg"> - Testing framework for Databricks notebooks
+### [Lynkr](https://github.com/vishalveerareddy123/Lynkr)  
+A Claude Code-compatible proxy for Databricks (and optionally Azure Anthropic), enabling LLM workflows — with MCP support, prompt caching, Git tooling, and workspace intelligence — that work natively on Databricks.  
+
 ### Influencers
 People to follow on LinkedIn:
 * [Ali Ghodsi](https://www.linkedin.com/in/alighodsi/) - Databricks Founder & CEO
