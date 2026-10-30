@@ -73,6 +73,7 @@
 * [Advancing Analytics](https://www.youtube.com/@AdvancingAnalytics) - You'll find a whole ton of spark, Databricks, Azure and more.
 ### Repos
 * [Delta Lake](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
+* [DBU Waste Finder](https://github.com/markatdataandbeyond/dbu-waste-finder) <img src="https://img.shields.io/github/last-commit/markatdataandbeyond/dbu-waste-finder.svg"> - Read-only Databricks cost and waste checks from system tables; proposes fixes, never applies them.
 * [quinn](https://github.com/mrpowers/quinn) <img src="https://img.shields.io/github/last-commit/mrpowers/quinn.svg"> - PySpark methods to enhance developer productivity.
 * [chispa](https://github.com/mrpowers/chispa) <img src="https://img.shields.io/github/last-commit/mrpowers/chispa.svg"> - PySpark test helper methods with beautiful error messages
 * [mack](https://github.com/mrpowers/mack) <img src="https://img.shields.io/github/last-commit/mrpowers/mack.svg"> - Delta Lake helper methods in PySpark
