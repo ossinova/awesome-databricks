@@ -79,6 +79,7 @@
 * [spark-style-guide](https://github.com/mrpowers/spark-style-guide) <img src="https://img.shields.io/github/last-commit/mrpowers/spark-style-guide.svg"> - Spark style guide
 * [scala-style-guide](https://github.com/databricks/scala-style-guide) <img src="https://img.shields.io/github/last-commit/databricks/scala-style-guide.svg"> - Databricks Scala Coding Style Guide
 * [nutter](https://github.com/microsoft/nutter) <img src="https://img.shields.io/github/last-commit/microsoft/nutter.svg"> - Testing framework for Databricks notebooks
+* [bricksentry](https://github.com/bricksentry/bricksentry) <img src="https://img.shields.io/github/last-commit/bricksentry/bricksentry.svg"> - Dry-runs pipeline and AI-agent writes on Delta shallow clones, then reports row diffs, downstream impact and a rollback command before changes reach production.
 ### Influencers
 People to follow on LinkedIn:
 * [Ali Ghodsi](https://www.linkedin.com/in/alighodsi/) - Databricks Founder & CEO
